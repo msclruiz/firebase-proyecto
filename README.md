@@ -19,4 +19,6 @@ instalacion de
 > npm install @react-navigation/stack
 > 
 >  npm install --save firebase
+>  
+>  npm i firebase
 
